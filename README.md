@@ -2,7 +2,7 @@
 Scripts for use with [_Lasers &amp; Feelings_](http://onesevendesign.com/laserfeelings).
 
 ## Get Some Adventure
-[GetSomeAdventure.ps1] uses the **Create a Space Adventure** table to generate a simple plot statement, such as:
+[GetSomeAdventure.ps1](GetSomeAdventure.ps1) uses the **Create a Space Adventure** table to generate a simple plot statement, such as:
 
 * A Rogue Captain wants to synthesize an alien artifact, which will start a invasion!
 * Cyber Zombies want to pacify the Star Dreadnought, which will enslave a planet!
